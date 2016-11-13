@@ -20,11 +20,11 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 
 > Pack: oui
 
-> Size: 884736
+> Size: 870037
 
 /resources/Images/logo.png
 > SHA256: 8244F38C21B40EF38814DBD7CF3A447D0899FDB9AEEA76857342D1290490605C
 
 > Pack: non
 
-> Size: 32768
+> Size: 24576
