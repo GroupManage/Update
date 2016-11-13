@@ -10,8 +10,8 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 
 **Pack :**
 
-/Pack/Update.zip
-> Size: 
+/Pack/Traitement.7z
+> Size: 189882
 
 **All :**
 
