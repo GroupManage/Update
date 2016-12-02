@@ -10,11 +10,11 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 
 **Pack :**
 
-/Pack/Update.7z  
-> Size: 278528  
+_rem /Pack/Update.7z_  
+_rem > Size: 278528_  
 
-_rem /Pack/Traitement.7z_  
-_rem > Size: 189882_  
+/Pack/Traitement.7z  
+> Size: 189882  
 
 **All :**
 
