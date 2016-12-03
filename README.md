@@ -21,13 +21,13 @@ _rem > Size: 278528_
 /Update.7z  
 > SHA256: 34A2CCFB8C8D76446A01B1F259BA468FE521DDF29B1D50E2AE4F96EADEBC3E2F  
 > Pack: no  
-> Compressed: yes 
+> Compressed: yes  
 > Size: 2588672  
 
 /UpdateUpdate.7z  
 > SHA256: 62A2D808258729AC9EA5E7E2B6EB8B7B615E453360C970E43A20730448E60FC0  
 > Pack: no  
-> Compressed: yes 
+> Compressed: yes  
 > Size: 589824 
 
 _rem /Traitement.dll_  
