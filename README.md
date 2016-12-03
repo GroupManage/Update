@@ -20,7 +20,7 @@ _rem > Size: 278528_
 
 /Update.exe  
 > SHA256: 726C2868EE97B3AC50526E79B58C17334926C546551066FD619ABCB9590B5B51  
-> Pack: yes  
+> Pack: no  
 > Size: 1261568  
 
 _rem /Traitement.dll_  
