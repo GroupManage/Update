@@ -9,27 +9,28 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 [Version 3.4.1.0]
 
 **Pack :**
-
+_rem Pas de pack_
 _rem /Pack/Update.7z_  
 _rem > Size: 278528_  
 
-/Pack/Traitement.7z  
-> Size: 189882  
+_rem /Pack/Traitement.7z_  
+_rem > Size: 189882_  
 
 **All :**
 
 _rem L'empreinte SHA256 et la taille sont relatives au fichier Update.exe_  
 /Update.7z  
-> SHA256: AAB6C7602062174201C1BEF7A50617AD5D6FCC770276E69E156DFA9BB792A312  
+> SHA256: aba55dbf21c8e1c59511953bd10e24ce30b97c301357f8330dcbabeb3095f2d8  
 > Pack: no  
 > Compressed: yes  
-> Size: 2580992  
+> Size: 768159  
 
+_rem L'empreinte SHA256 et la taille sont relatives au fichier UpdateUpdate.exe_  
 /UpdateUpdate.7z  
-> SHA256: 6916531F7B6B9A7058F9B565B426A67AC17AC6653F679FD15707E45B0213C115  
+> SHA256: ae5f88034fa892333f327bf1aabbf955b831c3987bad2542f7eaca93705be33c  
 > Pack: no  
 > Compressed: yes  
-> Size: 151397 
+> Size: 588 800 
 
 _rem /Traitement.dll_  
 _rem > SHA256: CA7E2804712AE57C5A2C1F5EF78C0E64B0390C56BD19C74904F56D518C470534_  
