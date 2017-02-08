@@ -8,8 +8,8 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 
 [Version 3.4.1.2]
 
-**Pack :**
-_rem Pas de pack_
+**Pack :**  
+_rem Pas de pack_  
 _rem /Pack/Update.7z_  
 _rem > Size: 278528_  
 
