@@ -6,7 +6,7 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 
 ---
 
-[Version 3.4.1.0]
+[Version 3.4.1.2]
 
 **Pack :**
 _rem Pas de pack_
@@ -41,16 +41,19 @@ _rem L'empreinte SHA256 et la taille sont relatives au fichier UpdateUpdate.exe_
 /Traitement.7z  
 > SHA256: 8901c99b78a3c5e9db16d067fe4fed175c615c9bce67f65b86fdae6b22a4b5a8  
 > Pack: no  
+> Compressed: yes  
 > Size: 220569  
 
 /Commune.7z  
 > SHA256: b1fe63d2b2347e4173a781a4057e36ea68f7f129f9253bc860304dcf61138f1c  
 > Pack: no  
+> Compressed: yes  
 > Size: 222911  
 
 /IO.7z  
 > SHA256: df65ecbec401eb80164483eeaf20902f8d4dcaec4eedabd82ed93ca3944a23f8  
 > Pack: no  
+> Compressed: yes  
 > Size: 225749  
 
 /LICENCE.txt  
