@@ -71,22 +71,22 @@ _rem L'empreinte SHA256 et la taille sont relatives au fichier UpdateUpdate.exe_
 > Pack: no  
 > Size: 332674  
 
-/resources/Files/IMPORTANT.rtf 
+/resources/Files/IMPORTANT.rtf  
 > SHA256: ef4959629bb5ef38f907e95a33495bb13b012b13cf2b6e158f0a2c36ca269d3e  
 > Pack: no  
 > Size: 49875  
 
-/resources/Files/IMPORTANT.txt 
+/resources/Files/IMPORTANT.txt  
 > SHA256: aa1327f47a491d96cb70da340e12ed2d16b519859d6b4c3c80d92e9acdb4c1d3  
 > Pack: no  
 > Size: 23371  
 
-/resources/Files/Informations.txt 
+/resources/Files/Informations.txt  
 > SHA256: a4d1a03a40ab0ef639f513608fad9d7894c8d48d3e81f97b3ecdf7bf411e3a78  
 > Pack: no  
 > Size: 522  
 
-/resources/Files/Remerciements.txt 
+/resources/Files/Remerciements.txt  
 > SHA256: ddb1e9cc76a0cb97a88db460aae14d548e7ac5de4a3dbf0479068afbdab662f8  
 > Pack: no  
 > Size: 249  
