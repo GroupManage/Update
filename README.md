@@ -19,38 +19,38 @@ _rem > Size: 189882_
 **All :**
 
 _rem L'empreinte SHA256 et la taille sont relatives au fichier Update.exe_  
-/Update.7z  
+/Update.exe  
 > SHA256: aba55dbf21c8e1c59511953bd10e24ce30b97c301357f8330dcbabeb3095f2d8  
 > Pack: no  
 > Compressed: yes  
 > Size: 768159  
 
 _rem L'empreinte SHA256 et la taille sont relatives au fichier UpdateUpdate.exe_  
-/UpdateUpdate.7z  
+/UpdateUpdate.exe  
 > SHA256: ae5f88034fa892333f327bf1aabbf955b831c3987bad2542f7eaca93705be33c  
 > Pack: no  
 > Compressed: yes  
 > Size: 152225 
 
-/GroupManage.7z  
+/GroupManage.exe  
 > SHA256: 676086cc9e107a1c5b3f2c5d380ea6606120f73776d778ff8f5000ee586ded6d  
 > Pack: no  
 > Compressed: yes  
 > Size: 310769 
 
-/Traitement.7z  
+/Traitement.exe  
 > SHA256: 8901c99b78a3c5e9db16d067fe4fed175c615c9bce67f65b86fdae6b22a4b5a8  
 > Pack: no  
 > Compressed: yes  
 > Size: 220569  
 
-/Commune.7z  
+/Commune.exe  
 > SHA256: b1fe63d2b2347e4173a781a4057e36ea68f7f129f9253bc860304dcf61138f1c  
 > Pack: no  
 > Compressed: yes  
 > Size: 222911  
 
-/IO.7z  
+/IO.exe  
 > SHA256: df65ecbec401eb80164483eeaf20902f8d4dcaec4eedabd82ed93ca3944a23f8  
 > Pack: no  
 > Compressed: yes  
