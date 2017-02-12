@@ -38,19 +38,19 @@ _rem L'empreinte SHA256 et la taille sont relatives au fichier UpdateUpdate.exe_
 > Compressed: yes  
 > Size: 310769 
 
-/Traitement.exe  
+/Traitement.dll  
 > SHA256: 8901c99b78a3c5e9db16d067fe4fed175c615c9bce67f65b86fdae6b22a4b5a8  
 > Pack: no  
 > Compressed: yes  
 > Size: 220569  
 
-/Commune.exe  
+/Commune.dll  
 > SHA256: b1fe63d2b2347e4173a781a4057e36ea68f7f129f9253bc860304dcf61138f1c  
 > Pack: no  
 > Compressed: yes  
 > Size: 222911  
 
-/IO.exe  
+/IO.dll  
 > SHA256: df65ecbec401eb80164483eeaf20902f8d4dcaec4eedabd82ed93ca3944a23f8  
 > Pack: no  
 > Compressed: yes  
