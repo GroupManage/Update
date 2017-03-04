@@ -33,7 +33,7 @@ _rem L'empreinte SHA256 et la taille sont relatives au fichier UpdateUpdate.exe_
 > Size: 152225 
 
 /GroupManage.exe  
-> SHA256: 676086cc9e107a1c5b3f2c5d380ea6606120f73776d778ff8f5000ee586ded6d  
+> SHA256: 2c32dc5c083d677bdd5aad0eee0febcf17c69fd88832d2b26442201548f19ed8  
 > Pack: no  
 > Compressed: yes  
 > Size: 310769 
