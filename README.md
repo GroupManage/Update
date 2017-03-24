@@ -8,10 +8,10 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 
 [Version 3.4.1.3]  
 
-**Changes :**
+**Changes :**  
 - Correction de bugs
 
-**Pack :**
+**Pack :**  
 _rem Pas de pack_  
 _rem /Pack/Update.7z_  
 _rem > Size: 278528_  
@@ -19,7 +19,7 @@ _rem > Size: 278528_
 _rem /Pack/Traitement.7z_  
 _rem > Size: 189882_  
 
-**All :**
+**All :**  
 _rem L'empreinte SHA256 et la taille sont relatives au fichier Update.exe_  
 /Update.exe  
 > SHA256: aba55dbf21c8e1c59511953bd10e24ce30b97c301357f8330dcbabeb3095f2d8  
