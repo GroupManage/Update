@@ -9,7 +9,7 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 [Version 3.4.1.3]  
 
 **Changes :**  
-- 
+- Correction de bugs
 
 **Pack :**  
 _rem Pas de pack_  
