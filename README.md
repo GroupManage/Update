@@ -10,8 +10,8 @@ Ce dossier ne contient pas le logiciel en lui-même (pour cela accédez à la pa
 
 **Changes :**
 
-- Correction de bugs  
--Petites améliorations  
+- Correction de bugs  
+- Petites améliorations  
 
 **Pack :**
 
